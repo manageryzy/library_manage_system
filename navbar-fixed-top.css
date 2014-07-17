@@ -1,0 +1,10 @@
+body,html
+{
+	height:100%;
+}
+
+.bookImg
+{
+	max-height:91px;
+	max-width:91px;
+}
